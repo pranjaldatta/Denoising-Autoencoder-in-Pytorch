@@ -15,3 +15,4 @@ Denoising autoencoders are an extension of the basic autoencoder, and represent 
 3) The training was done for 120 epochs.
 4) Visualizations have been included in the notebook.
 5) Used Google's Colaboratory with GPU enabled.
+
