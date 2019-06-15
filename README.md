@@ -1,4 +1,4 @@
-# DenoisingAutoencoderPytorch
+# Denoising Autoencoder Pytorch
 A Pytorch Implementation of a denoising autoencoder.
 
 # Denoising Autoencoder
